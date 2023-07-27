@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\bin\Debug\ConAppWorkingWithText.exe.config
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\bin\Debug\ConAppWorkingWithText.exe
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\bin\Debug\ConAppWorkingWithText.pdb
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\obj\Debug\ConAppWorkingWithText.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\obj\Debug\ConAppWorkingWithText.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\obj\Debug\ConAppWorkingWithText.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\obj\Debug\ConAppWorkingWithText.exe
+D:\Mphasis\Assested Projects\ConAppWorkingWithText\ConAppWorkingWithText\obj\Debug\ConAppWorkingWithText.pdb
